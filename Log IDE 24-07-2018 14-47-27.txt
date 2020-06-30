@@ -1,0 +1,27 @@
+(02:47:27.044) - Warning: Project not exist: C:/Users/khattabm/Desktop/ICE/Amelia_Testing_V3/
+
+(02:47:48.007) - Info: Proxy disabled
+(02:47:48.021) - Info: Config updated.
+(02:47:48.023) - Error: null
+java.lang.NullPointerException
+	at org.apache.commons.io.FileUtils.copyURLToFile(FileUtils.java:1460)
+	at com.vodafone.skdf.io.Property.<init>(Unknown Source)
+	at com.vodafone.skdf.test_items.Project.loadConfig(Unknown Source)
+	at com.vodafone.skdf.test_items.Project.loadProject(Unknown Source)
+	at com.vodafone.skdf.ide.Actions$FileManager.openProj(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.selectProject(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.intializeAll(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.intializeAll(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.access$100(Unknown Source)
+	at com.vodafone.skdf.ide.Actions$5.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)
+java.lang.NullPointerException
+	at org.apache.commons.io.FileUtils.copyURLToFile(FileUtils.java:1460)
+	at com.vodafone.skdf.io.Property.<init>(Unknown Source)
+	at com.vodafone.skdf.test_items.Project.loadConfig(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.intializeAll(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.intializeAll(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.intializeAll(Unknown Source)
+	at com.vodafone.skdf.ide.Actions.access$100(Unknown Source)
+	at com.vodafone.skdf.ide.Actions$5.run(Unknown Source)
+	at java.lang.Thread.run(Thread.java:745)

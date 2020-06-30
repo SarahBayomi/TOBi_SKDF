@@ -1,0 +1,24 @@
+#Wed Jun 24 13:38:40 GMT+02:00 2020
+timeout_ajax=20000
+timeout_find=2000
+Testdata=Testdata.xls
+Results=Results
+closeTargetOnFailure=false
+Testscript=Modules/Remedy.xls
+captureScreenshot=false
+ObjectRepository=ObjectRepository
+timeout_script=500
+Testsuite=Testsuite.xls
+Targets=Targets
+captureScreenShot=false
+executionDelay=0
+Testscripts=Scripts
+Test_Tag=AutoTest01
+Testdata_Id=Pre
+targetType=Firefox
+timeout_page=120000
+NodeIP=Local
+mobileTargetType=AppiumAndroid
+Testsuite_Id=TS001
+autocloseTarget=false
+hubServerIP=Local

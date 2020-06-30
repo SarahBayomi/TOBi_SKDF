@@ -1,0 +1,558 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Atta, Ahmed, Vodafone Group</Author>
+  <LastAuthor>bayomi, Sarah, Vodafone Group</LastAuthor>
+  <Created>2019-03-13T10:03:12Z</Created>
+  <LastSaved>2019-03-13T10:03:12Z</LastSaved>
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7620</WindowHeight>
+  <WindowWidth>20490</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>920</TabRatio>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s56" ss:Name="Normal 2">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63" ss:Parent="s56">
+   <Alignment ss:Horizontal="CenterAcrossSelection" ss:Vertical="Bottom"
+    ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+  </Style>
+  <Style ss:ID="s92">
+   <Alignment ss:Horizontal="CenterAcrossSelection" ss:Vertical="Bottom"
+    ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s237">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s247">
+   <Alignment ss:Horizontal="Center" ss:Vertical="Bottom" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#000000"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Size="11" ss:Color="#000000" ss:Bold="1"/>
+   <Interior ss:Color="#C0C0C0" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Amelia_Chat">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="50" x:FullColumns="1"
+   x:FullRows="1" ss:StyleID="s56" ss:DefaultRowHeight="15">
+   <Column ss:StyleID="s56" ss:AutoFitWidth="0" ss:Width="138.75"/>
+   <Column ss:StyleID="s56" ss:AutoFitWidth="0" ss:Width="47.25"/>
+   <Column ss:StyleID="s56" ss:Width="358.5"/>
+   <Column ss:StyleID="s56" ss:AutoFitWidth="0" ss:Width="45.75"/>
+   <Column ss:StyleID="s56" ss:AutoFitWidth="0" ss:Width="849"/>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Object Name</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Find By</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Identification</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Type</Data></Cell>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Notes</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label_ChatBubble_Amelia</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[1]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox_ChatInput</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//textarea[@class=&quot;ChatInput__input&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label_ChatBubble_User</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-user&quot;][{@}]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[contains(@class,&quot;row-chat me-true&quot;)][{@}]/div[@class=&quot;message&quot;]&#10;//div[@class=&quot;row-chat me-true&quot;][{@}]/div[@class=&quot;message&quot;]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Button_Upload</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//html[1]/body[1]/input[1][@type=&quot;file&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Button</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">browse_file_uploader</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label_Upload</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;custom_progress_bar&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link_navigation_sidemenu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Id</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">app-navigation-menu-trigger</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Logout_Button</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[contains(@id,'body')]//span[contains(text(),'Logout')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Wrong_Login_Page</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Id</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">passwordInput</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">LoginButton_SideMenu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[contains(@id,'body')]//span[contains(text(),'Login')]/..</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[contains(@id,'body')]//span[contains(text(),'Login')]/..&#10;//div[contains(@id,'body')]//span[contains(text(),'Login')]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TextField_Email_preprod</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@name=&quot;UserName&quot; and @type=&quot;email&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TextField_Password_preprod</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@name=&quot;Password&quot; and @type=&quot;password&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link_LoginButton</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link Text</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Login</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label_Stage_Domain</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@id=&quot;panel-1029_header-title-textEl&quot; and text()=&quot;Select Domain&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link_Login_Again</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link Text</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Login Again</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">MyAccount_Button</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[contains(@id,'body')]//span[contains(text(),'My Account')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">span</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link_New_Conversation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link Text</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">New Conversation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link_End_Conversation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link Text</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">End Conversation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link_Navigation_Abdo</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@id=&quot;app-navigation&quot;]/a[@id=&quot;app-navigation-menu-trigger&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Menu_Side_css</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">(//span[contains(.,'Login')])[2]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">div#app-navigation &gt; a#app-navigation-menu-trigger&#10;div#app-navigation &gt; a#app-navigation-menu-trigger  span[data-ref='btnInnerEl']</Data></Cell>
+   </Row>
+   <Row ss:Height="39">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Domain_Button_List</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//a[contains(., '{@}')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Vodafone Germany&#10;&#10;English</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label_Chat_Pressed_Button</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">(//label[contains(., '{@}')])</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//label[@for=&quot;{@}&quot;]&#10;(//label[contains(., '{@}')])[1]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Amelia_inside_menu</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//span[@class=&quot;notifier&quot;]/div/img</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">DropDownList</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//span[contains(., '{@}')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Button_up</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//button[@type=&quot;submit&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Button</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="39">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Drag_Drop</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@type=&quot;file&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">&#10;//*[@id=&quot;root&quot;]&#10;//div[1][@class=&quot;ChatInput__integration-content&quot;]/div[1][@class=&quot;drag-n-drop&quot;]/section[1]/div[1][@class=&quot;dropzone&quot;]/div[1][@class=&quot;dropzone-container&quot; and contains(.,'Drag &amp; Dro')]</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Submit_Btn</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//*[@id=&quot;root&quot;]//button</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">all_chat</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//*[@id=&quot;root&quot;]/div/div[1]/div/div[3]/div/div[1]/div/div</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">div</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Link_Legal_URL</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]//a</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Selects all Hyper links in the chat bubble</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Link_Href_LegalURL</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]//a[{@[1]}]</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label_ChatBubbe_TOBI</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[1][string(&quot;{@[1]}&quot;)]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Label</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TextField_Email</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@name=&quot;username&quot; and @type=&quot;text&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TextField_Password</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@name=&quot;password&quot; and @type=&quot;password&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Sign_in_preprod</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//span[@id=&quot;submitButton&quot; and text()=&quot;Sign in&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Button_PDF</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[1]//button[@class=&quot;preview&quot;]</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Button</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PDF_Name</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//h6[text()=&quot;{@}&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PDF_Exit</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[1]//span[@class=&quot;Icon&#45;-close&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TextField_Gmail_Username</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@id=&quot;identifierId&quot; and @name=&quot;identifier&quot; and @type=&quot;email&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">TextField_Gmail_Password</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[@name=&quot;password&quot; and @type=&quot;password&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chat_Conversation</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;ChatLog__items-wrapper&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chat_Paste</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;kix-lineview&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chat_Conversation_New</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;main&#45;-wrapper&quot; and contains(.,'Menu is cl')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Chat_Save</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;kix-page-column&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">div</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox_ChatInput_New</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//textarea[contains(@class, &quot;ChatInput__input&quot;)]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Open_PDF</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//a[@class=&quot;Media-doc&quot; and contains(.,'Document i')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Link_Href_URL</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]//a</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Link</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Popup_PDF_Content</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[1]//div[@class=&quot;overlay-container&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[1]//button[@class=&quot;preview&quot;]</Data></Cell>
+   </Row>
+   <Row ss:Height="39">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">PDF_New_Display</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;ChatLog__items-wrapper&quot;]/div[@class=&quot;message-chat transition-done message-chat&#45;-amelia&quot;][{@}]/div[@class=&quot;bubble-message sc-jKJlTe eNaEBO&quot; and contains(.,'Document i')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Image</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+   <Row ss:Height="51.75">
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Label_Chat_Pressed_Button_New</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">//div[@class=&quot;SelectButton-info&quot;]/div[1][text()=&quot;{@}&quot;]</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">(//label[contains(., '{@}')])[1]&#10;//div[@id=&quot;name-{@}&quot; and text()=&quot;{@}&quot;]&#10;//div[text()=&quot;{@}&quot;]&#10;</Data></Cell>
+   </Row>
+   <Row ss:Height="39">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Button_Upload_New</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//div[@class=&quot;drag-n-drop&quot;]/section/div[@class=&quot;dropzone&quot;]/div[@class=&quot;dropzone-container&quot; and contains(.,'Drag &amp; Dro')]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <Selected/>
+   <TopRowVisible>12</TopRowVisible>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>23</ActiveRow>
+     <ActiveCol>2</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="SearchPage">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="33"/>
+   <Column ss:AutoFitWidth="0" ss:Width="37.5"/>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Object Name</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Find By</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Identification</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Type</Data></Cell>
+    <Cell ss:StyleID="s92"><Data ss:Type="String">Notes</Data></Cell>
+   </Row>
+   <Row ss:Height="64.5">
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox_Search</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Xpath</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">//input[1][@name=&quot;q&quot; and @type=&quot;text&quot;]</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s65"><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <Worksheet ss:Name="Google">
+  <Table ss:ExpandedColumnCount="5" ss:ExpandedRowCount="2" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultRowHeight="15">
+   <Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="33"/>
+   <Column ss:AutoFitWidth="0" ss:Width="38.25"/>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s247"><Data ss:Type="String">Object Name</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="String">Find By</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="String">Identification</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="String">Type</Data></Cell>
+    <Cell ss:StyleID="s247"><Data ss:Type="String">Notes</Data></Cell>
+   </Row>
+   <Row ss:Height="26.25">
+    <Cell ss:StyleID="s237"><Data ss:Type="String">name</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Name</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">q</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String">Textbox</Data></Cell>
+    <Cell ss:StyleID="s237"><Data ss:Type="String"></Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>300</HorizontalResolution>
+    <VerticalResolution>300</VerticalResolution>
+   </Print>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
